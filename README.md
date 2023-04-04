@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/08/14/ed0814e7-1a39-73eb-9a15-66b62a1d7eeb/AppIcon-85-220-0-4-2x.png/1200x630bb.png" alt="finalcutpro" width="40" height="40"”/> 
+<!--<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ed/08/14/ed0814e7-1a39-73eb-9a15-66b62a1d7eeb/AppIcon-85-220-0-4-2x.png/1200x630bb.png" alt="finalcutpro" width="40" height="40"”/> -->
 </p>
 
 <p>
