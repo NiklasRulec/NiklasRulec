@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Niklas</h1>
-- 🌱 I’m currently learning **Fullstack Web Development at SuperCode**
+- 🌱 I’m currently learning **Full Stack Webdevelopment at SuperCode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
