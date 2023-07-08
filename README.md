@@ -38,8 +38,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="45" alt="gimp logo"  />
