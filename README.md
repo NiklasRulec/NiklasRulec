@@ -49,6 +49,10 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="netlify logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="discord logo"  />
+   <img width="12" />
+  <img src="https://www.svgrepo.com/show/475678/shopify-color.svg" height="45" alt="shopify logo"  />
+   <img width="12" />
+  <img src="https://www.svgrepo.com/show/354543/webflow.svg" height="45" alt="webflow logo"  />
 </div>
 
 ###
