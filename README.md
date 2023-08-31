@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">📚 I'm currently learning Full Stack Webdevelopment at SuperCode</p>
+<p align="left">📍 Düsseldorf</p>
 
 ###
 
