@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gimp/5C5543" height="45" alt="gimp logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="netlify logo"  />
