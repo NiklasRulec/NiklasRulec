@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 ###
 
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="45" alt="html5 logo"  />
   <img width="12" />
