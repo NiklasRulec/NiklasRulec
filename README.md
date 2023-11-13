@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋, I'm Niklas</h1>
+<h1 align="left">Hey 👋🏻, I'm Niklas</h1>
 
 ###
 
@@ -30,15 +30,23 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="45" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="45" alt="netlify logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/475678/shopify-color.svg" height="45" alt="shopify logo"  />
-   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354543/webflow.svg" height="45" alt="webflow logo"  />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="figma logo"  />
 </div>
 
 ###
