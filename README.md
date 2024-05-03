@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="45" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
@@ -50,6 +52,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="45" alt="figma logo"  />
+  
 </div>
 
 ###
