@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p>🌱 I’m currently learning Typescript</p>
 
-
 ###
 
 <h2 align="left">I code with 💻</h2>
