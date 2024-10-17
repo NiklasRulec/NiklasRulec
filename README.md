@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/html5" height="45" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3" height="45" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="45" alt="typescript logo"  />
