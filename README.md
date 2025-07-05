@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>🌱 I’m currently learning Typescript</p>
 
 ###
-
+<!--
 <h2 align="left">I code with 💻</h2>
 
 ###
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" alt="tailwindcss logo"  />
   
 </div>
-
+-->
 ###
 
 <h2 align="left">Stats 📊</h2>
